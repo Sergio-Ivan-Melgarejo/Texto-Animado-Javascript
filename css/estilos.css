@@ -1,7 +1,7 @@
 :root {
-	--logotipo: #1a1a1a;
+	--logotipo: #1f1b1b;
 	--profesion: #f2f2f2;
-	--primario: #2e5fff;
+	--primario: #6d2eff;
 }
 
 * {
@@ -44,7 +44,7 @@ main {
 	background: var(--logotipo);
 	padding: 12px 20px;
 	transition: .5s ease all;
-	font-size: 36px;
+	font-size: 2.5em;
 	font-family: 'Noto Sans', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 2px;
@@ -80,6 +80,7 @@ main {
 .texto-animado .segunda-linea {
 	position: absolute;
 	top: 100px;
+	color: var(--primario);
 }
 
 @media screen and (max-width: 600px){

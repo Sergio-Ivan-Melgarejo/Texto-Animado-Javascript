@@ -27,7 +27,7 @@ class TextoAnimado {
 				} else {
 					clearInterval(intervalo);
 				}
-			}, 30);
+			}, 50);
 		});
 
 		this.objetivo.addEventListener('mouseleave', () => {
@@ -40,9 +40,9 @@ class TextoAnimado {
 				} else {
 					clearInterval(intervalo);
 				}
-			}, 30);
+			}, 50);
 		});
-		
+
 	}
 }
 
