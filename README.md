@@ -2,7 +2,7 @@
 
 Es una practica y guia simple para animar texto con javascript, gracias a FalconMasters.
 
-## pagina
+## Pagina
 
 [link](https://sergio-ivan-melgarejo.github.io/Texto-Animado-Javascript/)
 
